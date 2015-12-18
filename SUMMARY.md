@@ -16,6 +16,7 @@
 * 开发工具
  * JetBrains系列IDE
  * Git操作
+ * Markdown语法
 * 移动互联网
  * 网页设计 
  * Android应用设计
