@@ -24,16 +24,18 @@
  * [JavaScript程序设计](common/lang-js/README.md)
  * MatLab
  * Scilab
+
+## 物联网方向
 * 单片机
  * 51 
  * Arduino
 * 嵌入式系统
-* 物联网
 * 移动互联网
  * 网页应用开发
  * Android应用开发
  * Windows应用开发
  * iOS应用开发
+* 物联网系统
 
 ## [计算机类](cs/README.md)
 * 数据结构
