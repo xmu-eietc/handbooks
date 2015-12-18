@@ -5,5 +5,5 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 ## 致谢
-感谢一下贡献者:
+感谢以下贡献者:
 * 吴德文
