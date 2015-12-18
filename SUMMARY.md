@@ -23,7 +23,7 @@
  * [JavaScript程序设计](common/lang-js/README.md)
  * MatLab
  * Scilab
-* 操作技能
+* [操作技能](common/skills/README.md)
  * Linux使用
  * 网络技术
 
