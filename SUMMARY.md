@@ -25,7 +25,7 @@
  * [C语言程序设计](common/lang-c/README.md)
  * 编程基础
 
-## 计算机类
+## [计算机类](cs/README.md)
 * [组成原理](cs/zuchen/README.md)
 * Unix环境编程
 * 编译原理
