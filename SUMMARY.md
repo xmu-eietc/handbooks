@@ -10,7 +10,7 @@
 * 单片机
  * 51 
  * Arduino 
-* Linu使用
+* Linux使用
 * 开发工具
  * JetBrains系列IDE
  * Git操作
