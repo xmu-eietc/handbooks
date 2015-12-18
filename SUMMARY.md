@@ -22,6 +22,8 @@
  * [Python程序设计](common/lang-python/README.md)
  * [Java程序设计](common/lang-java/README.md)
  * [JavaScript程序设计](common/lang-js/README.md)
+ * MatLab
+ * Scilab
 * 单片机
  * 51 
  * Arduino
