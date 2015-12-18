@@ -12,11 +12,14 @@
 * 单片机
 * Linu使用
 * Git操作
-* Android应用设计
-* Java程序设计
-* Python程序设计
-* [C语言程序设计](common/lang-c/README.md)
-* 编程基础
+* 移动互联网
+ * 网页设计 
+ * Android应用设计
+* 编程语言
+ * Java程序设计
+ * Python程序设计
+ * [C语言程序设计](common/lang-c/README.md)
+ * 编程基础
 
 ## 公共电子类
 * 模拟电子线路
