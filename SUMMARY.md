@@ -8,7 +8,6 @@
 
 ## [公共技术类](common/README.md)
 * [开发工具](common/dev-tools/README.md)
- * Linux使用
  * [Git操作](common/dev-tools/git/README.md)
  * [Markdown语法](common/dev-tools/markdown/README.md)
  * [TeX语法](common/dev-tools/tex/README.md)
@@ -24,6 +23,9 @@
  * [JavaScript程序设计](common/lang-js/README.md)
  * MatLab
  * Scilab
+* 操作技能
+ * Linux使用
+ * 网络技术
 
 ## [计算机类](cs/README.md)
 * 数据结构
