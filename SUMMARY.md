@@ -14,6 +14,7 @@
  * [TeX语法](common/dev-tools/tex/README.md)
  * Sublime
  * Atom
+ * Visual Studio
  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
  * 编程基础
@@ -21,7 +22,6 @@
  * [Python程序设计](common/lang-python/README.md)
  * [Java程序设计](common/lang-java/README.md)
  * [JavaScript程序设计](common/lang-js/README.md)
-* 数据结构与
 * 单片机
  * 51 
  * Arduino 
@@ -30,6 +30,8 @@
  * Android应用设计
 
 ## [计算机类](cs/README.md)
+* 数据结构
+* 算法
 * [组成原理](cs/zuchen/README.md)
 * Unix环境编程
 * 编译原理
