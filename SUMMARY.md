@@ -24,7 +24,8 @@
  * [JavaScript程序设计](common/lang-js/README.md)
 * 单片机
  * 51 
- * Arduino 
+ * Arduino
+* 嵌入式系统
 * 移动互联网
  * 网页设计 
  * Android应用设计
@@ -36,6 +37,7 @@
 * Unix环境编程
 * 编译原理
 * 操作系统
+* 体系结构 
 
 ## 智能类
 
