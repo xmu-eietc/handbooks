@@ -14,7 +14,7 @@
  * Atom
  * Sublime
  * Visual Studio
- * VIM
+ * Vim
  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
  * 编程基础
