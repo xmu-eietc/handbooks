@@ -28,9 +28,12 @@
  * 51 
  * Arduino
 * 嵌入式系统
+* 物联网
 * 移动互联网
- * 网页设计 
- * Android应用设计
+ * 网页应用开发
+ * Android应用开发
+ * Windows应用开发
+ * iOS应用开发
 
 ## [计算机类](cs/README.md)
 * 数据结构
