@@ -1,4 +1,6 @@
 {
-    "title": "实验手册"
-    "generator": "site"
+    "generator": "site",
+    "plugins": [
+        "multipart"
+    ],
 }
