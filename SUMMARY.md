@@ -12,10 +12,10 @@
  * Arduino 
 * Linux使用
 * 开发工具
- * JetBrains系列IDE
- * Git操作
- * Markdown语法
- * TeX语法
+ * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+ * [Git操作](common/dev-tools/git/README.md)
+ * [Markdown语法](common/dev-tools/markdown/README.md)
+ * [TeX语法](common/dev-tools/tex/README.md)
 * 移动互联网
  * 网页设计 
  * Android应用设计
