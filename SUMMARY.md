@@ -7,15 +7,17 @@
 * 数字电子线路
 
 ## [公共技术类](common/README.md)
-* 单片机
- * 51 
- * Arduino 
-* Linux使用
 * [开发工具](common/dev-tools/README.md)
- * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+ * Linux使用
  * [Git操作](common/dev-tools/git/README.md)
  * [Markdown语法](common/dev-tools/markdown/README.md)
  * [TeX语法](common/dev-tools/tex/README.md)
+ * Sublime
+ * Atom
+ * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+* 单片机
+ * 51 
+ * Arduino 
 * 移动互联网
  * 网页设计 
  * Android应用设计
