@@ -20,8 +20,8 @@
  * 网页设计 
  * Android应用设计
 * 编程语言
- * Java程序设计
- * Python程序设计
+ * [Java程序设计](common/lang-java/README.md)
+ * [Python程序设计](common/lang-python/README.md)
  * [C语言程序设计](common/lang-c/README.md)
  * 编程基础
 
