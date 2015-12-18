@@ -23,11 +23,11 @@
  * [C语言程序设计](common/lang-c/README.md)
  * 编程基础
 
-## 计算机类
+## Part III - 计算机类
 * [组成原理](cs/zuchen/README.md)
 * Unix环境编程
 * 编译原理
 * 操作系统
 
-## 电子通信类
+## Part IV - 电子通信类
 
