@@ -11,9 +11,10 @@
  * [Git操作](common/dev-tools/git/README.md)
  * [Markdown语法](common/dev-tools/markdown/README.md)
  * [TeX语法](common/dev-tools/tex/README.md)
- * Sublime
  * Atom
+ * Sublime
  * Visual Studio
+ * VIM
  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
  * 编程基础
