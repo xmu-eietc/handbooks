@@ -13,7 +13,9 @@
  * 51 
  * Arduino 
 * Linu使用
-* Git操作
+* 开发工具
+ * JetBrains系列IDE
+ * Git操作
 * 移动互联网
  * 网页设计 
  * Android应用设计
