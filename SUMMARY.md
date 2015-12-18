@@ -15,17 +15,18 @@
  * Sublime
  * Atom
  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+* 编程语言
+ * 编程基础
+ * [C语言程序设计](common/lang-c/README.md)
+ * [Python程序设计](common/lang-python/README.md)
+ * [Java程序设计](common/lang-java/README.md)
+ * [JavaScript程序设计](common/lang-js/README.md)
 * 单片机
  * 51 
  * Arduino 
 * 移动互联网
  * 网页设计 
  * Android应用设计
-* 编程语言
- * [Java程序设计](common/lang-java/README.md)
- * [Python程序设计](common/lang-python/README.md)
- * [C语言程序设计](common/lang-c/README.md)
- * 编程基础
 
 ## [计算机类](cs/README.md)
 * [组成原理](cs/zuchen/README.md)
