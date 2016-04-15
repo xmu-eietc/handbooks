@@ -50,7 +50,7 @@
 ## 物联网方向
 * 移动互联网
  * 网页应用开发
- * Android应用开发
+ * [Android应用开发](iot/android/README.md)
  * Windows应用开发
  * iOS应用开发
 * 单片机
