@@ -1,7 +1,8 @@
 # 实验手册
 
 * [前言](README.md)
-* [实验讲义模版](template.md)
+* [实验讲义模版1](lab_handout_template1.md)
+* [实验讲义模版2](lab_handout_template2.md)
 
 ## 公共电子类
 * 模拟电子线路
