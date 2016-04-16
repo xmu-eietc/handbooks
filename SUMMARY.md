@@ -9,7 +9,6 @@
   * 模拟电子线路
   * 数字电子线路
 * [开发工具](common/dev-tools/README.md)
-   * [Git操作](common/dev-tools/git/README.md)
    * [Markdown语法](common/dev-tools/markdown/README.md)
    * [TeX语法](common/dev-tools/tex/README.md)
    * Atom
@@ -26,6 +25,7 @@
    * MatLab
    * Scilab
 * [操作技能](common/skills/README.md)
+   * [Git操作](common/dev-tools/git/README.md)
    * Linux使用
    * 网络技术
 * 数据结构
