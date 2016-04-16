@@ -14,8 +14,8 @@
 * [开发工具](common/dev-tools/README.md)
   * Atom
   * Sublime
-  * Visual Studio
   * Vim
+  * Visual Studio
   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
    * 编程基础
