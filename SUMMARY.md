@@ -20,11 +20,11 @@
 * 编程语言
    * 编程基础
    * 面向对象设计
-   * [Java程序设计](common/lang-java/README.md)
-   * [C++语言程序设计](common/lang-cplusplus/README.md)
-   * [C语言程序设计](common/lang-c/README.md)
-   * [Python程序设计](common/lang-python/README.md)
-   * [JavaScript程序设计](common/lang-js/README.md)
+   * [Java程序设计](lang/java/README.md)
+   * [C++语言程序设计](lang/cplusplus/README.md)
+   * [C语言程序设计](lang/c/README.md)
+   * [Python程序设计](lang/python/README.md)
+   * [JavaScript程序设计](lang/js/README.md)
    * Scilab
    * MatLab
 * 数据结构与算法
