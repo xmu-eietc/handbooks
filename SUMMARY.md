@@ -13,8 +13,8 @@
   * 网络技术
 * [开发工具](common/dev-tools/README.md)
   * Atom
-  * Sublime
   * Vim
+  * Sublime
   * Visual Studio
   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
