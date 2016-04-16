@@ -1,62 +1,46 @@
-# 实验手册
+# Summary
 
 * [前言](README.md)
 * [实验讲义模版1](lab_handout_template1.md)
-* [实验讲义模版2](lab_handout_template2.md)
-
-## 公共电子类
+* [实验讲义模版2](labhandout_template2.md)
 * 模拟电子线路
 * 数字电子线路
-
-## [公共技术类](common/README.md)
 * [开发工具](common/dev-tools/README.md)
- * [Git操作](common/dev-tools/git/README.md)
- * [Markdown语法](common/dev-tools/markdown/README.md)
- * [TeX语法](common/dev-tools/tex/README.md)
- * Atom
- * Sublime
- * Visual Studio
- * Vim
- * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+   * [Git操作](common/dev-tools/git/README.md)
+   * [Markdown语法](common/dev-tools/markdown/README.md)
+   * [TeX语法](common/dev-tools/tex/README.md)
+   * Atom
+   * Sublime
+   * Visual Studio
+   * Vim
+   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
- * 编程基础
- * [C语言程序设计](common/lang-c/README.md)
- * [Python程序设计](common/lang-python/README.md)
- * [Java程序设计](common/lang-java/README.md)
- * [JavaScript程序设计](common/lang-js/README.md)
- * MatLab
- * Scilab
+   * 编程基础
+   * [C语言程序设计](common/lang-c/README.md)
+   * [Python程序设计](common/lang-python/README.md)
+   * [Java程序设计](common/lang-java/README.md)
+   * [JavaScript程序设计](common/lang-js/README.md)
+   * MatLab
+   * Scilab
 * [操作技能](common/skills/README.md)
- * Linux使用
- * 网络技术
-
-## [计算机类](cs/README.md)
+   * Linux使用
+   * 网络技术
 * 数据结构
 * 算法
 * [组成原理](cs/zuchen/README.md)
 * Unix环境编程
 * 编译原理
 * 操作系统
-* 体系结构 
-
-## 智能类
+* 体系结构
 * 机器学习
-
-## 电子类
-
-
-## 通信类
-
-
-## 物联网方向
 * 移动互联网
- * [网页应用开发](iot/webapp/README.md)
- * [Android应用开发](iot/android/README.md)
- * Windows应用开发
- * iOS应用开发
+   * [网页应用开发](iot/webapp/README.md)
+   * [Android应用开发](iot/android/README.md)
+   * Windows应用开发
+   * iOS应用开发
 * 单片机
- * 51 
- * Arduino
+   * 51
+   * Arduino
 * 嵌入式系统
 * 物联网系统
 
