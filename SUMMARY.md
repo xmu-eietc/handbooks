@@ -19,6 +19,7 @@
   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
    * 编程基础
+   * 面向对象设计
    * [Java程序设计](common/lang-java/README.md)
    * [C++语言程序设计](common/lang-cplusplus/README.md)
    * [C语言程序设计](common/lang-c/README.md)
