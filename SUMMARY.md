@@ -6,12 +6,12 @@
     * [实验讲义模版2](labhandout_template2.md)
 * [基本技能](common/skills/README.md)
   * 搜索技能 
-  * [TeX语法](common/dev-tools/tex/README.md)
   * [Git操作](common/dev-tools/git/README.md)
+  * [Markdown语法](common/dev-tools/markdown/README.md)
   * Linux使用
   * 网络技术
+  * [TeX语法](common/dev-tools/tex/README.md)
 * [开发工具](common/dev-tools/README.md)
-  * [Markdown语法](common/dev-tools/markdown/README.md)
   * Atom
   * Sublime
   * Visual Studio
@@ -50,5 +50,5 @@
    * 51
    * Arduino
 * 嵌入式系统
-* 物联网系统
+* 物联网
 
