@@ -19,9 +19,10 @@
   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
    * 编程基础
+   * [Java程序设计](common/lang-java/README.md)
+   * [C++语言程序设计](common/lang-c/README.md)
    * [C语言程序设计](common/lang-c/README.md)
    * [Python程序设计](common/lang-python/README.md)
-   * [Java程序设计](common/lang-java/README.md)
    * [JavaScript程序设计](common/lang-js/README.md)
    * MatLab
    * Scilab
