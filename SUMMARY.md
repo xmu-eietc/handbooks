@@ -8,9 +8,9 @@
   * 搜索技能 
   * [Git操作](common/dev-tools/git/README.md)
   * [Markdown语法](common/dev-tools/markdown/README.md)
+  * [TeX语法](common/dev-tools/tex/README.md)
   * Linux使用
   * 网络技术
-  * [TeX语法](common/dev-tools/tex/README.md)
 * [开发工具](common/dev-tools/README.md)
   * Atom
   * Sublime
