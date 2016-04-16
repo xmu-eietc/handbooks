@@ -11,9 +11,6 @@
   * [Git操作](common/dev-tools/git/README.md)
   * Linux使用
   * 网络技术
-* 电子线路
-  * 模拟电子线路
-  * 数字电子线路
 * [开发工具](common/dev-tools/README.md)
   * [Markdown语法](common/dev-tools/markdown/README.md)
   * Atom
@@ -42,6 +39,9 @@
    * [Android应用开发](iot/android/README.md)
    * Windows应用开发
    * iOS应用开发
+* 电子线路
+  * 模拟电子线路
+  * 数字电子线路
 * 单片机
    * 51
    * Arduino
