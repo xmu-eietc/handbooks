@@ -25,7 +25,7 @@
    * MatLab
    * Scilab
 * [操作技能](common/skills/README.md)
- * 搜索技能 
+  * 搜索技能 
    * [Git操作](common/dev-tools/git/README.md)
    * Linux使用
    * 网络技术
