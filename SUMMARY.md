@@ -21,8 +21,8 @@
    * 编程基础
    * [Java程序设计](common/lang-java/README.md)
    * [C++语言程序设计](common/lang-cplusplus/README.md)
-   * [Python程序设计](common/lang-python/README.md)
    * [C语言程序设计](common/lang-c/README.md)
+   * [Python程序设计](common/lang-python/README.md)
    * [JavaScript程序设计](common/lang-js/README.md)
    * Scilab
    * MatLab
