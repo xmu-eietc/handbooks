@@ -11,12 +11,12 @@
   * [TeX语法](skills/tex/README.md)
   * Linux使用
   * 网络技术
-* [开发工具](common/dev-tools/README.md)
+* [开发工具](tools/README.md)
   * Atom
   * Vim
   * Sublime
   * Visual Studio
-  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+  * [JetBrains系列IDE](tools/ide/jetbrains/README.md)
 * 编程语言
    * 编程基础
    * [面向对象设计](lang/oo/README.md)
