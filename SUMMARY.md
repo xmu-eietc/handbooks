@@ -36,8 +36,8 @@
 * 编译原理
 * 操作系统
 * 体系结构
-
-* * 机器学习
+* 人工智能
+  * 机器学习
 * 移动互联网
    * [网页应用开发](iot/webapp/README.md)
    * [Android应用开发](iot/android/README.md)
