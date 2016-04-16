@@ -5,8 +5,9 @@
   * [实验讲义模版1](lab_handout_template1.md)
   * [实验讲义模版2](labhandout_template2.md)
 
-* 模拟电子线路
-* 数字电子线路
+* 电子线路
+  * 模拟电子线路
+  * 数字电子线路
 * [开发工具](common/dev-tools/README.md)
    * [Git操作](common/dev-tools/git/README.md)
    * [Markdown语法](common/dev-tools/markdown/README.md)
