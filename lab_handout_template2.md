@@ -4,5 +4,7 @@
 ## Lab Requirements
 ### Software
 ### Hardware
-### Material
+### Materials
+
+## Lab Material
 
