@@ -9,13 +9,13 @@
   * 模拟电子线路
   * 数字电子线路
 * [开发工具](common/dev-tools/README.md)
-   * [Markdown语法](common/dev-tools/markdown/README.md)
-   * [TeX语法](common/dev-tools/tex/README.md)
-   * Atom
-   * Sublime
-   * Visual Studio
-   * Vim
-   * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
+  * [Markdown语法](common/dev-tools/markdown/README.md)
+  * [TeX语法](common/dev-tools/tex/README.md)
+  * Atom
+  * Sublime
+  * Visual Studio
+  * Vim
+  * [JetBrains系列IDE](common/dev-tools/jetbrains/README.md)
 * 编程语言
    * 编程基础
    * [C语言程序设计](common/lang-c/README.md)
