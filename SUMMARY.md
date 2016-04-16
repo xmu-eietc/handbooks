@@ -29,7 +29,7 @@
   * 数据结构C版
   * 数据结构Java版
   * 算法
-* [组成原理](cs/zuchen/README.md)
+* [计算机组成原理](cs/zuchen/README.md)
 * Unix环境编程
 * 编译原理
 * 操作系统
