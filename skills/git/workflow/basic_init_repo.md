@@ -12,6 +12,7 @@
 ## 实验步骤
 
 到你想变为仓库到目录里去(cd XXXXXXX)
+```
 git init
 # 得到一个空的仓库
 git status
@@ -23,6 +24,7 @@ git status
 git remote add origin GITHUB-REPO-URL
 git push 会出错
 根据提示输入 git push --set-ups.........
+```
 
 ## 实验要求
 
