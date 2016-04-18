@@ -7,6 +7,9 @@
 * [基本技能](skills/README.md)
   * [搜索技能](skills/search.md) 
   * [Git操作](skills/git/README.md)
+    * Git 工作流
+      * [克隆其它仓库](skills/git/workflow/basic_clone_repo.md)
+      * 从本机新建仓库
   * [Markdown语法](skills/markdown/README.md)
   * [TeX语法](skills/tex/README.md)
   * Linux使用
