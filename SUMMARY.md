@@ -11,7 +11,7 @@
       * [克隆已有的仓库](skills/git/workflow/basic_clone_repo.md)
       * [从本地新建仓库](skills/git/workflow/basic_init_repo.md)
       * 克隆空仓库并从本地添加内容
-    * PR 工作流
+    * 开源 工作流
       * Pull&Request 工作流
   * [Markdown语法](skills/markdown/README.md)
   * [TeX语法](skills/tex/README.md)
