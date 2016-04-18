@@ -12,7 +12,7 @@
       * [从本地新建仓库](skills/git/workflow/basic_init_repo.md)
       * 克隆空仓库并从本地添加内容
     * 分布协作工作流
-      * Pull&Request 工作流
+      * Pull & Request 工作流
   * [Markdown语法](skills/markdown/README.md)
   * [TeX语法](skills/tex/README.md)
   * Linux使用
