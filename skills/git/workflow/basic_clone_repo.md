@@ -13,7 +13,7 @@
 ```
 git clone https://github.com/xmu-eietc/xmu-eietc.github.io eietc
 cd eietc
-#使用文本编辑器（vi、nano或者gedit）编辑index.html的内容
+#使用文本编辑器（vi、nano 或者 gedit）编辑 `index.html` 的内容
 #如不小心使用了vi又不会操作。按两下ESC键，然后输入`:q!`放弃修改退出或者输入```:x```保存且退出
 vi index.html
 
