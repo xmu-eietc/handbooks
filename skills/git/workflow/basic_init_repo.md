@@ -11,8 +11,8 @@
 ### 参考资料
 ## 实验步骤
 
-到你想变为仓库到目录里去(cd XXXXXXX)
 ```
+#到你想变为仓库到目录里去(cd XXXXXXX)
 git init
 # 得到一个空的仓库
 git status
