@@ -8,7 +8,7 @@
   * [搜索技能](skills/search.md) 
   * [Git操作](skills/git/README.md)
     * Git 工作流
-      * [克隆已有仓库](skills/git/workflow/basic_clone_repo.md)
+      * [克隆已有的仓库](skills/git/workflow/basic_clone_repo.md)
       * [从本地新建仓库](skills/git/workflow/basic_init_repo.md)
       * 克隆空仓库并从本地添加内容
   * [Markdown语法](skills/markdown/README.md)
