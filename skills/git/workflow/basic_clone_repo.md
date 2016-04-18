@@ -14,7 +14,7 @@
 git clone https://github.com/xmu-eietc/xmu-eietc.github.io eietc
 cd eietc
 ```
-* 使用文本编辑器（vi、nano 或者 gedit）编辑 `index.html` 的内容。如不小心使用了vi又不会操作。按两下ESC键，然后输入`:q!`放弃修改退出或者输入```:x```保存且退出
+* 使用文本编辑器（vi、nano 或者 gedit）编辑 `index.html` 的内容。如不小心使用了 vi 又不会操作。按两下 ｀ESC` 键，然后输入 `:q!` 放弃修改退出或者输入 `:x` 保存且退出
 vi index.html
 
 改了某个文件的某个内容，你们可以改README.md之类的
