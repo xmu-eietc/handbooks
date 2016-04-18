@@ -9,7 +9,7 @@
   * [Git操作](skills/git/README.md)
     * Git 工作流
       * [克隆已有的仓库](skills/git/workflow/basic_clone_repo.md)
-      * 从本机新建仓库
+      * [从本机新建仓库](skills/git/workflow/basic_init_repo.md)
   * [Markdown语法](skills/markdown/README.md)
   * [TeX语法](skills/tex/README.md)
   * Linux使用
